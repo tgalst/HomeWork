@@ -16,4 +16,5 @@ for i in num_list:
         odds.append(i)
 print("even numbers", evens)
 print("odds numbers", odds)
+#test1
 
